@@ -5,7 +5,7 @@ Instructions de base(exo1-11)
 Structures conditionnelles(12-24)
 Structures répétitives(25-)
 Fonctions et modules
-Structures de données
+Structures de données (98-)
 Chaine de caractères 
 Gestion des fichiers
 Concepts avancés  
