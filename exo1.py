@@ -3,8 +3,8 @@
 PLAN DE COURS
 Instructions de base(exo1-11)
 Structures conditionnelles(12-24)
-Structures répétitives(25-)
-Fonctions et modules
+Structures répétitives(25-70)
+Fonctions et modules(71-97)
 Structures de données (98-)
 Chaine de caractères 
 Gestion des fichiers
